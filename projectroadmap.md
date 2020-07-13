@@ -6,7 +6,7 @@ Update README file. [✔]
 
 Update projectroadmap file [✔]
 
-Test run existing Astro-Numerology code repositories [✔]
+Test run existing Battle-of-the-Elements-Avatar code repositories [✔]
 
 Fork and submit pull request for existing code [ ]
 
