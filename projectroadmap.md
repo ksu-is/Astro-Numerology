@@ -8,16 +8,18 @@ Update projectroadmap file [✔]
 
 Test run existing Battle-of-the-Elements-Avatar code repositories [✔]
 
-Fork and submit pull request for existing code [ ]
+Upload gui file [✔]
 
-Edit existing code to add scoreboard [ ]
+Fork and submit pull request for existing code [✔]
 
-Run code to ensure scoreboard is working [ ]
+Edit existing code to add scoreboard [✔]
 
-If time permits, edit code to add sound effects [ ]
+Run code to ensure scoreboard is working [✔]
 
-Schedule presentation time [ ]
+If time permits, edit code to add sound effects [✔]
 
-Create PowerPoint presentation slide [ ]
+Schedule presentation time [✔]
+
+Create PowerPoint presentation slide [✔]
 
 Submit final project [ ]
